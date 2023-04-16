@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <OutputType>Library</OutputType>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MeiliSearch" Version="0.10.2" />
+    <PackageReference Include="SqlSugar.IOC" Version="1.8.0" />
+    <PackageReference Include="SqlSugarCore" Version="5.0.6.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RSS.Model\RSS.Model.csproj" />
+    <ProjectReference Include="..\RSS.Util\RSS.Util.csproj" />
+  </ItemGroup>
+
+</Project>
