@@ -1,12 +1,6 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : 1.116.157.230rssapp
- Source Server Type    : MySQL
- Source Server Version : 50739
- Source Host           : 1.116.157.230:3306
- Source Schema         : rssapp
-
  Target Server Type    : MySQL
  Target Server Version : 50739
  File Encoding         : 65001
